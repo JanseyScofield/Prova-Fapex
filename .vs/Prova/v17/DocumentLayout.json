@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\coresprimarias\\branco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:coresprimarias\\branco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\coresprimarias\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:coresprimarias\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\coresprimarias\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:coresprimarias\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\coresprimarias\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:coresprimarias\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|c:\\users\\jsfilho\\desktop\\estudos c#\\estudos-c-sharp\\prova\\coresprimarias\\preto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB08BD1-6783-42AF-926E-04EEA18102C2}|Prova.csproj|solutionrelative:coresprimarias\\preto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\Cor.cs",
+              "RelativeDocumentMoniker": "Cor.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\Cor.cs",
+              "RelativeToolTip": "Cor.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswDcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:12:58.189Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Red.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Red.cs",
+              "RelativeDocumentMoniker": "CoresPrimarias\\Red.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Red.cs",
+              "RelativeToolTip": "CoresPrimarias\\Red.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:38:03.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Branco.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Branco.cs",
+              "RelativeDocumentMoniker": "CoresPrimarias\\Branco.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Branco.cs",
+              "RelativeToolTip": "CoresPrimarias\\Branco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:48:52.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Preto.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Preto.cs",
+              "RelativeDocumentMoniker": "CoresPrimarias\\Preto.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Preto.cs",
+              "RelativeToolTip": "CoresPrimarias\\Preto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:48:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Green.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Green.cs",
+              "RelativeDocumentMoniker": "CoresPrimarias\\Green.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Green.cs",
+              "RelativeToolTip": "CoresPrimarias\\Green.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:38:21.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:11:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blue.cs",
+              "DocumentMoniker": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Blue.cs",
+              "RelativeDocumentMoniker": "CoresPrimarias\\Blue.cs",
+              "ToolTip": "C:\\Users\\jsfilho\\Desktop\\estudos C#\\Estudos-C-Sharp\\Prova\\CoresPrimarias\\Blue.cs",
+              "RelativeToolTip": "CoresPrimarias\\Blue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:38:37.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
